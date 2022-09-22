@@ -18,7 +18,7 @@ Make sure you have pip installed as well as Python 3.x
 
 Clone the repository
 
-Enter the directory
+Enter the directory 'tidal'
 
 pip install selenium
 
