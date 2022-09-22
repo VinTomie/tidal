@@ -12,3 +12,14 @@ Due to the nature of this project I felt no need to use data analysis tools such
 
 ###
 
+Usage guide
+
+Make sure you have pip installed as well as Python 3.x
+
+Clone the repository
+
+Enter the directory
+
+pip install selenium
+
+py tidal.py
